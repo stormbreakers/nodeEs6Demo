@@ -1,0 +1,7 @@
+{
+  "host": "192.168.1.14",
+  "user": "postgres",
+  "password": "123456",
+  "database": "vdm_school",
+  "timezone": "00:00"
+}
